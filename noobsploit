@@ -1,7 +1,7 @@
 local Settings = {
     ["Autorun Commands"] = {"antikick","antiabuse","antiname","localremoveobby","fixvelocity","runcommand logs","antivoid"}, -- Commands to run automatically
     ["Default Whitelisted"] = {}, -- People whitelisted by default
-    ["Default Banned"] = {"794x794","Instlgator","blue20043","Arman2oooo","aonhayhoinon011",}, -- People banned by default
+    ["Default Banned"] = {"794x794","Instlgator","blue20043","Arman2oooo","aonhayhoinon011","t_echr"}, -- People banned by default
     ["Prefix"] = "." -- Prefix used for running commands
 }
 
